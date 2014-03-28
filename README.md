@@ -11,8 +11,11 @@ fswrfgggeargergegegegerrwgegewgwregwergw
 This is change the world
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 this is the worlds best noptepad
+=======
+>>>>>>> 8dd1f95... 4th commit
 =======
 >>>>>>> 8dd1f95... 4th commit
 =======
