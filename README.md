@@ -9,5 +9,8 @@ fswrfgggeargergegegegerrwgegewgwregwergw
  This  is vishal.
 >>>>>>> origin/TEST1
 This is change the world
+<<<<<<< HEAD
 
 this is the worlds best noptepad
+=======
+>>>>>>> 8dd1f95... 4th commit
